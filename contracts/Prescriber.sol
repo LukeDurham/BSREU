@@ -6,7 +6,6 @@ import "./Prescription.sol";
 import "./Registrar.sol";
 
 /// @title Prescriber Role Contract
-/// @author Austin Kugler, Alixandra Taylor
 /// @notice The contract represents a prescriber in the system, creation new prescription
 ///         contracts and tracking the ones created
 contract Prescriber {
