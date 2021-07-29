@@ -6,7 +6,6 @@ import "./Prescriber.sol";
 import "./Pharmacy.sol";
 
 /// @title Global Registry contract
-/// @author Austin Kugler, Alixandra Taylor
 /// @notice The contract handles the creation of role contracts and validation of
 ///         contract address to specific roles
 contract Registrar {
