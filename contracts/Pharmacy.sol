@@ -5,7 +5,6 @@ import "./Registrar.sol";
 import "./Prescription.sol";
 
 /// @title Pharmacy Role Contract
-/// @author Austin Kugler, Alixandra Taylor
 /// @notice The contract represents a pharmacist in the system, filling prescription
 ///         and passing along refill requests to a prescriber
 contract Pharmacy {
