@@ -4,8 +4,6 @@ pragma solidity ^0.8.4;
 import "./Registrar.sol";
 import "./Prescription.sol";
 
-/// @title Patient Role Contract
-/// @author Austin Kugler, Alixandra Taylor
 /// @notice The contract represents a patient in the system, handling permissioning
 ///         checks and tracking assigned prescription contracts
 contract Patient {
