@@ -5,7 +5,6 @@ import "./Registrar.sol";
 import "./Patient.sol";
 
 /// @title Prescription
-/// @author Austin Kugler, Alixandra Taylor
 /// @notice This contract represents a prescription within the system and tracks
 ///         fill and refill requests
 contract Prescription {
